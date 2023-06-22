@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "385197055218",
+    "project_id": "acildurumapp3",
+    "storage_bucket": "acildurumapp3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385197055218:android:844b0c23622ff6d4e5c46b",
+        "android_client_info": {
+          "package_name": "com.example.acildurumapp3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385197055218-1hinevmfb8c3mmkru8pjmmeg366t91ol.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.acildurumapp3",
+            "certificate_hash": "4a9a6c0809bc8def044e8de2cc1003d012980e06"
+          }
+        },
+        {
+          "client_id": "385197055218-hke223ofnirddbneb50s2qd3pe89p3ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAayRZczP24kjB7iFhCvXTC0NZaHppL1_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385197055218-hke223ofnirddbneb50s2qd3pe89p3ct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
